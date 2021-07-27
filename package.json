@@ -1,12 +1,12 @@
 {
   "name": "nestjs-general-interceptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nest.js interceptor to make general API response",
   "license": "MIT",
   "keywords": [
-    "cors",
     "nestjs",
-    "middleware"
+    "http"
+    "interceptor",
   ],
   "scripts": {
     "build": "tsc",
