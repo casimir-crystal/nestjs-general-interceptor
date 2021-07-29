@@ -5,7 +5,7 @@
   "license": "MIT",
   "keywords": [
     "nestjs",
-    "http"
+    "http",
     "interceptor",
   ],
   "scripts": {
